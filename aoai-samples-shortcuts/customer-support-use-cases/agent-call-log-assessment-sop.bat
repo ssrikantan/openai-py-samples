@@ -1,4 +1,4 @@
-cd "C:\Users\sansri\catalog-all-demos\az-opanai-streamlit-samples\openai-py-samples\aoai-samples\customer-support-use-cases\call agent-log-assess-app"
+cd "..\..\aoai-samples\customer-support-use-cases\call agent-log-assess-app"
 start notepad document-sample1.txt 
 start notepad metaprompt.txt
 start notepad log-sample1.txt
