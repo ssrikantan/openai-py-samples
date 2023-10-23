@@ -12,12 +12,15 @@ from langchain_experimental.sql import SQLDatabaseChain
 st.title("eCommerce Database Agent Bot")
 
 
-
-
 def init_config():
     if "db_chain" not in st.session_state:
         sys.path.insert(0, "../../0_common_config")
-        from config_data import get_deployment_name_turbo, set_environment_details_turbo, get_environment_details_turbo,get_lakehouse_connection_details
+        from config_data import (
+            get_deployment_name_turbo,
+            set_environment_details_turbo,
+            get_environment_details_turbo,
+            get_lakehouse_connection_details,
+        )
 
         st.session_state["deployment_name"] = get_deployment_name_turbo()
         deployment_id = get_deployment_name_turbo()
@@ -31,12 +34,13 @@ def init_config():
             openai.api_type,
         )
         key, base_uri, api_type, version = get_environment_details_turbo()
-        llm = ChatOpenAI(
-            deployment_id=deployment_id,
-            temperature=0,
-            openai_api_key=key
-        )
-        az_synapse_db_server, az_synapse_db_name, az_synapse_db_user_name, az_synapse_db_password = get_lakehouse_connection_details()
+        llm = ChatOpenAI(deployment_id=deployment_id, temperature=0, openai_api_key=key)
+        (
+            az_synapse_db_server,
+            az_synapse_db_name,
+            az_synapse_db_user_name,
+            az_synapse_db_password,
+        ) = get_lakehouse_connection_details()
 
         db = SQLDatabase.from_uri(
             "mssql+pyodbc://"
@@ -90,7 +94,7 @@ if prompt := st.chat_input("What products would you like to look for?"):
         full_response = ""
         db_chain = init_config()
         response = db_chain.run(prompt)
-        print('*******************',response)
+        print("*******************", response)
         # try:
         #     full_response += response.choices[0].delta.get("content", "")
         #     time.sleep(0.05)
@@ -98,6 +102,4 @@ if prompt := st.chat_input("What products would you like to look for?"):
         # except:
         #     pass
         message_placeholder.markdown(response)
-        st.session_state.messages.append(
-            {"role": "assistant", "content": response}
-        )
+        st.session_state.messages.append({"role": "assistant", "content": response})

@@ -6,37 +6,33 @@ import sys
 
 st.title("Maintenance Work QA Bot")
 
+
 def init_config():
-    if 'deployment_name' not in st.session_state:
-        sys.path.insert(0, '../../0_common_config')
+    if "deployment_name" not in st.session_state:
+        sys.path.insert(0, "../../0_common_config")
         from config_data import get_deployment_name_turbo, set_environment_details_turbo
-        st.session_state['deployment_name']= get_deployment_name_turbo()
+
+        st.session_state["deployment_name"] = get_deployment_name_turbo()
         set_environment_details_turbo()
-        print("deployment_name", st.session_state['deployment_name'], 
-            "\nopenai.api_base", openai.api_base, 
-            "\nopenai.api_type", openai.api_type)
-    return st.session_state['deployment_name']
+        print(
+            "deployment_name",
+            st.session_state["deployment_name"],
+            "\nopenai.api_base",
+            openai.api_base,
+            "\nopenai.api_type",
+            openai.api_type,
+        )
+    return st.session_state["deployment_name"]
 
 
-# openai_key = 'xxxxxxxxxxxxx'
-# openai_api_base =  'https://aoai-975.openai.azure.com/'
-# deployment_name='turbo0613'
-
-# openai.api_type = 'azure'
-# openai.api_version = '2023-07-01-preview'
-
-# openai.api_key = st.sidebar.text_input('OpenAI API Key', type='password', value=openai_key)
-# openai.api_base =  st.sidebar.text_input('OpenAI API Base', type='default', value=openai_api_base)
-# deployment_name = st.sidebar.text_input('Deployment Name', type='default',value=deployment_name)
-
-with open('document-sample1.txt', 'r',encoding="utf8") as file:
+with open("document-sample1.txt", "r", encoding="utf8") as file:
     case_data = file.read()
 
-system_prompt = ''
-with open('metaprompt.txt', 'r') as file:
+system_prompt = ""
+with open("metaprompt.txt", "r") as file:
     # system_prompt clea= file.read().replace('\n', '')
     system_prompt += file.read()
-    system_prompt += '\n'
+    system_prompt += "\n"
 system_prompt += case_data
 
 if "messages" not in st.session_state:
@@ -46,9 +42,9 @@ if "messages" not in st.session_state:
 
 counter = 0
 for message in st.session_state.messages:
-    if counter ==0:
-        counter +=1
-        st.text_area(label='SOP data', value=system_prompt, height=500)
+    if counter == 0:
+        counter += 1
+        st.text_area(label="SOP data", value=system_prompt, height=500)
         continue
     else:
         with st.chat_message(message["role"]):
@@ -69,7 +65,7 @@ if prompt := st.chat_input("Hello!!!"):
                 for m in st.session_state.messages
             ],
             stream=True,
-            temperature=0
+            temperature=0,
         ):
             try:
                 full_response += response.choices[0].delta.get("content", "")
@@ -78,4 +74,6 @@ if prompt := st.chat_input("Hello!!!"):
             except:
                 pass
         message_placeholder.markdown(full_response)
-        st.session_state.messages.append({"role": "assistant", "content": full_response})
+        st.session_state.messages.append(
+            {"role": "assistant", "content": full_response}
+        )
