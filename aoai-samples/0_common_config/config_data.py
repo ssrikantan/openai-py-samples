@@ -2,14 +2,14 @@ import openai
 
 def set_environment_details_turbo():
     openai.api_key = 'xxxxxxxxxxxxxxxxxxx'
-    openai.api_base =  'https://aoai-975.openai.azure.com/' # your endpoint should look like the following https://YOUR_RESOURCE_NAME.openai.azure.com/
+    openai.api_base =  'https://xxxxxxxxx.openai.azure.com/' # your endpoint should look like the following https://YOUR_RESOURCE_NAME.openai.azure.com/
     openai.api_type = 'azure'
     openai.api_version = '2023-07-01-preview'
     print('set the environment details for azure open ai')
 
 
 def get_environment_details_turbo():
-    return 'xxxxxxxxxxxxxxxxxxxxx', 'https://aoai-975.openai.azure.com/', 'azure', '2023-07-01-preview'
+    return 'xxxxxxxxxxxxxxxxxxxxx', 'https://xxxxxxxxxxx.openai.azure.com/', 'azure', '2023-07-01-preview'
 
 def get_deployment_name_turbo():
     return 'turbo0613'
@@ -17,7 +17,7 @@ def get_deployment_name_turbo():
 
 def set_environment_details_gpt4():
     openai.api_key = 'xxxxxxxxxxxxxxxxxx'
-    openai.api_base =  'https://oaisvcsansri.openai.azure.com/'
+    openai.api_base =  'https://xxxxxxxx.openai.azure.com/'
     openai.api_type = 'azure'
     openai.api_version = '2023-07-01-preview'
     print('set the environment details for azure open ai')
@@ -30,4 +30,4 @@ def get_deployment_name_gpt4_32k():
     return 'gpt-4-32k'
 
 def get_lakehouse_connection_details():
-    return 'mtcinsightswks-ondemand.sql.azuresynapse.net','sample_ext_db','sqladminuser','MyMtcPass$197'
+    return 'xxxxxxxxxx-ondemand.sql.azuresynapse.net','sample_ext_db','xxxxxxxxxx','xxxxxxxxxxx'
