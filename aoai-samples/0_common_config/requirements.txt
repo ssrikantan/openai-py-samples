@@ -1,1 +1,1 @@
-pip install -U langchain langchain_experimental streamlit
+pip install -U langchain langchain_experimental streamlit openai
