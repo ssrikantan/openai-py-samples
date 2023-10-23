@@ -1,0 +1,10 @@
+[Commercial Drugs]
+---
+Some of the commercial drugs that could be used to meet the ailments and treatment mentioned in the discharge summary are:
+• For acute myocardial infarction: Aspirin, Clopidogrel, Heparin, Nitroglycerin, Morphine, Thrombolytics (such as Alteplase or Tenecteplase)12
+• For cardiogenic shock and pulmonary edema: Diuretics (such as Furosemide or Bumetanide), Vasopressors (such as Dopamine or Norepinephrine), Inotropes (such as Dobutamine or Milrinone)
+• For prevention of stent thrombosis and further ischemic events: Dual antiplatelet therapy (such as Aspirin and Clopidogrel, or Aspirin and Ticagrelor, or Aspirin and Prasugrel)
+• For reduction of heart rate, blood pressure and oxygen demand: Beta-blockers (such as Metoprolol, Atenolol, or Bisoprolol)
+• For lowering cholesterol and preventing plaque formation: Statins (such as Atorvastatin, Simvastatin, or Rosuvastatin)
+• For reduction of blood pressure and prevention of ventricular remodeling: Angiotensin-converting enzyme inhibitors (such as Lisinopril, Enalapril, or Ramipril) or Angiotensin-receptor blockers (such as Losartan, Valsartan, or Candesartan)
+---

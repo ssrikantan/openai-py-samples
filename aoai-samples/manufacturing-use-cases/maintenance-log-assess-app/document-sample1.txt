@@ -1,0 +1,68 @@
+[SOP Document]
+---
+Common Problems with Overhead Cranes:
+1. Damage or Degradation to the Wire Rope
+Birdcaging, corrosion, abrasion, and extreme wear are a few of the problems that can affect wire rope on an overhead crane. The best way to prevent damage or failure is to inspect your wire rope regularly.
+Damage or degradation to wire rope is one of the most common issues that you may experience with an overhead crane system. There are a number of common wire rope problems, including any of the following:
+ · The wire rope has jumped out of the reeving system
+ · Reduction of rope diameter below nominal – loss of core support, internal or external corrosion, wear of outside wires
+ · Broken or worn outside wires
+ · Corroded or broken wires at end connections
+Many operating conditions can affect the life of wire rope. Bending, stresses, loading conditions, speed of load application (shock load), abrasion, corrosion, sling design, materials handled, environmental conditions (heat or chemical exposure), lubrication, and history of usage will all factor into how long wire rope can stay in service.
+The best way to prevent damage to, or failure of, a wire rope is to inspect it prior to each shift. If any evidence of damage is observed, the wire rope should be properly disposed of to prevent further usage.
+Also, make sure that the wire rope is properly lubricated. Proper lubrication of the wire rope has two primary benefits:
+1. Reduces friction as the individual wires move over each other
+2. Provides corrosion protection and lubrication in the core, inside wires, and outside surface
+2. Crane Skew and Alignment Issues
+Your crane’s runway system should be designed and installed by a professional manufacturer or service company. If you’re installing a crane on an existing runway, make sure the runway is professionally surveyed prior to installation.
+An overhead crane that is out of alignment and skewing as it travels down the runway can cause significant stresses and damages to the entire crane system. The problem with a crane that isn’t tracking properly is that over time, forces that weren’t accounted for in the design and installation of the overhead crane cause stresses to the runway beams themselves and also to the tie-backs or building support structures.
+These types of stresses can result in:
+ · Accidents
+ · Crane failure or derailment
+ · Equipment downtime and productivity loss
+ · Costly repairs and replacement of parts
+A crane that isn’t tracking properly also causes extensive wear to the wheels, wheel bearings, and wheel flanges—as well as premature wear to the motor drives and other equipment.
+There are certain signs that your crane may not be aligned properly and is skewing as it moves down the runway. When your crane is in operation, be aware of the following:
+ · Loud scraping sounds
+ · Broken or cracked wheel flanges
+ · Abnormal wear on the wheels, wheel bearings, and rails
+ · Extra power required to move the crane through certain areas of the runway
+ · Wheels that float or climb over the rail and then crash down
+The best way to prevent overhead crane skew and alignment issues is to have your crane regularly inspected by a reputable third-party service provider. A crane service provider can survey your crane rails and runway systems to identify and correct any issues before they become bigger problems.
+A crane service provider can make sure that your overhead crane system is in compliance with the allowable tolerances specified by the Crane Manufacturers Association of America (CMAA) for the design of the runway system.
+ · CMAA Specification #70 – 1.4.2: “Rails shall be straight, parallel, level, at the same elevation and at the specified center to center distance, within the tolerances given…”
+ o Crane Span Tolerance:
+ § Less than 50 feet: ± 3/16”
+ § 51-100 feet: ± 1/4″
+ § Greater than 100 feet: ± 3/8”
+ o Straightness Tolerance: ± 3/8”
+ o Elevation Tolerance: ± 3/8”
+ o Rail-to-Rail Elevation Tolerance:
+ § Less than 50 feet: ± 3/16”
+ § 50-100 feet: ± 1/4″
+ § Greater than 100 feet: ± 3/8”
+ · CMAA Specification #70 – 1.4.5: “Rail joint misalignment can be a significant factor in wheel, axle, and bearing failures. It is recommended that horizontal rail separation at joints not exceed 1/16”. Vertical and horizontal alignment at joints should be maintained as closely as possible. Rail joints should be ground flush as necessary to provide a smooth transition from each rail segment to the next.”
+3. Excessive Wear to End Truck Wheels
+A runway system that isn’t properly aligned can cause premature wear to the crane’s end trucks and wheels, motor drives, and other equipment.
+End truck wheels are components of overhead cranes that can require frequent maintenance, replacement, or adjustment. Throughout the course of a crane’s life, the wheels will naturally wear down due to normal use of the crane and will need to be replaced.
+Wheels can be made of a variety of materials, including polyurethane for gantry cranes, alloys, low-carbon steel, or medium-carbon steel. The more carbon in the steel, the harder the wheel will be. There are also methods of heat-treating that can be used to increase the hardness of a wheel—increasing the service life and load capacity of the wheels.
+If the wheels, wheel bearings, or wheel flanges begin to wear or break down prematurely, it can be an indication that the crane is skewing and not properly tracking down the runway system. Skewing of the crane can cause excessive wear and stress on the wheels, but also on the runway beams and support structures as well.
+Wheels tend to wear out faster on a crane that was installed using an existing rail system as opposed to a new installation. Unless the runway has been properly surveyed prior to installation, the runways may be misaligned or the rails may be out of tolerance.
+To avoid premature wear on the wheels and end trucks, your overhead crane runway system should be designed, tested, and regularly inspected by a reputable overhead crane manufacturer. Any signs of premature wear will indicate the possibility of a larger problem that should be addressed and corrected before the problem compounds itself. Make sure wheels were made specifically for the rail they’re running on. Hardness must match hardness of rail.
+ 
+4. Issues with the Electrification System
+If your overhead crane is blowing fuses, then you may have a faulty circuit in the crane’s electrification system. Contact a crane service provider immediately to come out and identify the fault.
+There are a number of different issues related to an overhead crane’s electrification system that may require service or future maintenance.
+Problems with Contact Interruptions
+One of the most frustrating problems that a crane operator can experience is when there are contact interruptions between the conductor bars and the collector. These contact interruptions can cause intermittent control problems with the overhead crane system.
+On the collector, a brush made from carbon graphite can wear down, which can cause carbon graphite to build up. Because carbon graphite dust is a conductive material, this build up can cause shorts in the electrical connection.
+On older crane systems, the copper rails on the conductor bars can also become corroded or oxidized due to the operating environment or due to long periods where the crane is not being used. To prevent this from happening, the conductor bars and collectors should be inspected and cleaned regularly to make sure that the contact between the collector and conductor bar is uninterrupted.
+Another problem that can cause contact interruptions is if there are alignment issues with the conductor bars themselves, causing the collector shoes to jump out of the track and lose contact.
+Problems with Push Button Pendants or Radio Controls
+Although not very common, there are environments that create their own radio waves that may interfere with the operation of an overhead crane. An example might be a facility that performs induction heating or induction welding procedures. Radio waves created during these processes may disrupt the communication between the radio’s transmitter and receiver.
+On pendant controls and radio controls, the push buttons or levers may stick or become unresponsive over time. The control may need to be replaced or repaired to correct any issues with the operation of the buttons.
+You may also find that pendant controls can become disconnected or pulled out of the hoist. The reason that this can occur is because the operator pulls on the pendant to maneuver or position the crane—especially on jib cranes or workstation cranes. If your controls become unresponsive, you may need to check to see if the pendant became disconnected from the hoist, or have the system serviced and re-wired if any wires become loose.
+Blown Fuses
+If you find that your overhead crane is blowing fuses, then it’s an indication that you have a faulty circuit in the crane’s electrification system. Contact a crane service provider immediately to come out and inspect the crane’s electrification system and identify the fault.
+
+---

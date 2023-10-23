@@ -1,0 +1,42 @@
+#Rental Agreement
+---
+This Rental Agreement (this "Agreement") is made on this ____ day of ____________, 20___, by and between _________________ (the "Owner"), residing at ____________________________, and _________________ (the "Tenant"), residing at ____________________________.
+
+The Owner agrees to rent to the Tenant, and the Tenant agrees to rent from the Owner, the apartment located at _________________________________________ (the "Apartment"), for residential purposes only.
+
+The terms and conditions of this Agreement are as follows:
+
+1. Term: The term of this Agreement shall commence on ____________, 20___, and shall expire on ____________, 20___, unless sooner terminated as provided herein. The Tenant shall vacate the Apartment on or before the expiration or termination of this Agreement, unless otherwise agreed by the Owner in writing.
+
+2. Rent: The Tenant shall pay to the Owner a monthly rent of Rs. _________ (the "Rent"), in advance, on or before the first day of each month during the term of this Agreement. The Rent shall be paid by cheque or electronic transfer to the Owner's bank account as specified by the Owner from time to time. The first month's Rent shall be paid upon signing this Agreement.
+
+3. Security Deposit: The Tenant shall pay to the Owner a security deposit of Rs. _________ (the "Security Deposit"), upon signing this Agreement. The Security Deposit shall be held by the Owner as security for the faithful performance by the Tenant of all terms and conditions of this Agreement. The Security Deposit shall not be applied towards any Rent or other charges due from the Tenant. The Owner shall refund the Security Deposit to the Tenant within ______ days after the expiration or termination of this Agreement and delivery of vacant possession of the Apartment by the Tenant, subject to deduction of any amounts due from the Tenant for damages, repairs, cleaning, unpaid Rent or other charges.
+
+4. Utilities: The Owner shall provide and pay for water, electricity and gas for the Apartment. The Tenant shall pay for any other utilities or services that he/she may require or use in connection with the Apartment, such as telephone, internet, cable TV, etc.
+
+5. Maintenance and Repairs: The Owner shall maintain the Apartment in good condition and repair and comply with all applicable laws and regulations regarding health, safety and sanitation. The Tenant shall keep the Apartment clean and tidy and promptly notify the Owner of any defects or damages in the Apartment or its fixtures or appliances. The Tenant shall be responsible for any repairs or replacements required due to his/her negligence or misuse. The Tenant shall not make any alterations or improvements to the Apartment without the prior written consent of the Owner.
+
+6. Use and Occupancy: The Tenant shall use the Apartment for residential purposes only and shall not engage in any illegal or immoral activities therein. The Tenant shall not assign this Agreement or sublet the Apartment or any part thereof without 
+the prior written consent of the Owner. The Tenant shall not allow any other person to occupy the Apartment except for the following authorized occupants: _________________________________________. The Tenant shall abide by all rules and regulations of the Apartment complex or building, if any, and shall not cause any nuisance or disturbance to the Owner or other occupants.
+
+7. Inspection: The Owner shall have the right to enter and inspect the Apartment at any reasonable time, upon giving at least 24 hours' notice to the Tenant, except in case of emergency. The Owner shall also have the right to show the Apartment to prospective tenants or buyers during the last 30 days of the term of this Agreement, upon giving reasonable notice to the Tenant.
+
+8. Termination: This Agreement shall terminate upon the expiration of its term, unless renewed or extended by mutual written agreement of the parties. Either party may terminate this Agreement before the expiration of its term by giving at least 30 days' written notice to the other party, for any reason or no reason. The Owner may also terminate this Agreement before the expiration of its term by giving written notice to the Tenant, if the Tenant fails to pay the Rent or any other charges due under this Agreement within 10 days after they become due, or if the Tenant breaches any other term or condition of this Agreement and fails to remedy such breach within 10 days after receiving written notice from the Owner. Upon termination of this Agreement, the Tenant shall vacate the Apartment and remove all his/her personal belongings and return all keys and access cards to the Owner. The Owner may retain or dispose of any property left behind by the Tenant, in accordance with applicable law.
+
+9. Notices: Any notice or communication required or permitted under this Agreement shall be in writing and delivered personally or sent by registered mail or email to the address or email address of the other party as specified in this Agreement or as notified from time to time.
+
+10. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of India and the parties hereby submit to the exclusive jurisdiction of the courts of _______________.
+
+11. Miscellaneous: This Agreement constitutes the entire agreement between the parties and supersedes any prior or contemporaneous understandings or agreements, whether oral or written, regarding the subject matter hereof. This Agreement may not be modified or amended except by a written instrument signed by both parties. This Agreement shall be binding upon and inure to the benefit of the parties and their respective heirs, successors and assigns. If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be severed and the remaining provisions shall remain in full force and effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first above written.
+
+Owner's Signature: _______________________________
+Owner's Name: ___________________________________
+Date: ___________________________________________
+
+Tenant's Signature: _______________________________
+Tenant's Name: ___________________________________
+Date: ___________________________________________
+
+---

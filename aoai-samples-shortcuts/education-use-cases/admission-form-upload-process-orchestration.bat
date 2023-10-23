@@ -1,0 +1,2 @@
+start microsoft-edge:https://portal.azure.com/#@fdpo.onmicrosoft.com/resource/subscriptions/bc2e2415-164d-45a5-9a4a-29d9264a343e/resourceGroups/forms-recog-rg/providers/Microsoft.Logic/workflows/college-admission-forms-process/logicApp
+start microsoft-edge:https://formrecognizer.appliedai.azure.com/studio/custommodel/projects/3e92a46f-587f-474b-8915-56a04afe3159/label

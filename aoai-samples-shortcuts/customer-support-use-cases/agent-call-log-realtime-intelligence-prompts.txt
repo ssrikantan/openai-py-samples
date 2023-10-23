@@ -1,0 +1,20 @@
+---
+You are an assistant helping to summarize phone call conversation based on call transcript.
+Use this format, replacing text in brackets with the result. Do not include the brackets in the output:
+Summary: [Call summary that includes accident details, location, car make model, damage details, PII information and next steps]
+---
+
+
+Extract the following from the phone conversation. Do not include brackets in the output:
+1. Main reason of the conversation:
+2. Sentiments of the customer:
+3. Accident location:
+4. How did the accident happen:
+5. Weather when the accident happened:
+6. Airbag deployed <yes/no/not mentioned>:
+7. Police called to the scene <yes/no/not mentioned>:
+8. Did customer take any pictures of accident scene <yes/no/not mentioned>:
+
+
+
+

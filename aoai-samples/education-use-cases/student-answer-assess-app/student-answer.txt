@@ -1,0 +1,12 @@
+[Student Answer]
+---
+Question to the student: Explain Newton's second law of motion. Provide examples to corroborate your answer
+
+Answer provided by the Student:
+The second law of motion says that the more force you apply to an object, the faster it will go. 
+It also says that the heavier the object is, the slower it will go. 
+For example, if I push a skateboard with a small force, it will move slowly. 
+But if I push it with a large force, it will move faster. 
+Also, if I put a heavy backpack on the skateboard, it will move slower than without the backpack. 
+The second law of motion can be written as F = ma, where F is the force, m is the mass and a is the acceleration.
+---

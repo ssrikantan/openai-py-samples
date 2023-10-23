@@ -1,0 +1,13 @@
+[Reference Document]
+---
+Newton's Three Laws of Motion
+Newton's three laws of motion are the foundation of classical mechanics, which describes the motion of objects under the influence of forces. The three laws are:
+- First law: An object at rest stays at rest and an object in motion stays in motion with the same speed and direction unless acted upon by an unbalanced force. This law is also known as the law of inertia, which means that objects resist changes in their state of motion.
+- Second law: The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This law can be expressed by the equation F = ma, where F is the net force, m is the mass and a is the acceleration. This law explains how forces cause changes in the motion of objects.
+- Third law: For every action, there is an equal and opposite reaction. This law means that whenever one object exerts a force on another object, the second object exerts a force of equal magnitude and opposite direction on the first object. This law explains how forces always occur in pairs and how they affect each other.
+Some examples of Newton's three laws of motion are:
+- First law: A soccer ball will keep rolling on a flat field until it hits a wall or another player, which will exert an unbalanced force on it and change its speed or direction. A book resting on a table will stay there unless someone pushes it or lifts it, which will also exert an unbalanced force on it and change its state of rest.
+- Second law: A car will accelerate faster if more gas is applied to the pedal, which will increase the net force acting on it. A car will also accelerate faster if it has less passengers or cargo, which will decrease its mass. A rocket will accelerate upward when its engine produces a large downward force on the exhaust gases, which will produce an equal and opposite upward force on the rocket.
+- Third law: A swimmer will push backward on the water with his arms and legs, which will exert a backward force on him. The water will push forward on him with an equal and opposite force, which will propel him forward. A gun will recoil backward when it fires a bullet, which will exert a forward force on the bullet. The bullet will exert a backward force on the gun with equal magnitude and opposite direction, which will cause the gun to move backward.
+
+---

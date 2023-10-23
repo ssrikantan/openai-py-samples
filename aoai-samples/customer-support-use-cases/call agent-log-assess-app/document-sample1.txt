@@ -1,0 +1,39 @@
+[SOP Document]
+---
+ Standard Operating Procedure Manual for Call Center Agents of XYZ Bank
+Introduction
+This manual provides guidelines and instructions for call center agents of XYZ Bank who handle credit card related queries and issues from customers. The purpose of this manual is to help agents provide consistent, accurate, and courteous service to customers and resolve their problems effectively. The manual covers the following topics:
+•	Customer service standards
+•	Call handling procedures
+•	Escalation procedures
+•	Quality assurance
+•	Emergency procedures
+Agents are expected to read and follow this manual at all times.
+Customer Service Standards
+This section outlines the customer service standards that agents must adhere to while interacting with customers. These standards include:
+•	Greeting customers: Agents must greet customers warmly and professionally using the bank’s approved script. Agents must also introduce themselves by name and ask for the customer’s name and credit card number for verification purposes.
+•	Listening to customers: Agents must listen attentively and empathetically to customers and acknowledge their concerns or issues. Agents must also ask open-ended questions to clarify the customer’s needs and expectations.
+•	Providing solutions: Agents must provide accurate and relevant information and solutions to customers based on their credit card type, status, and eligibility. Agents must also explain the benefits and features of the bank’s products and services and offer suitable options or alternatives if applicable.
+•	Closing calls: Agents must confirm with customers that their queries or issues have been resolved satisfactorily and thank them for choosing XYZ Bank. Agents must also invite customers to provide feedback or ratings on their service experience.
+Call Handling Procedures
+This section describes the call handling procedures that agents must follow for different types of credit card related queries and issues from customers. These include:
+•	Activation: Customers may call to activate their new credit cards or re-activate their blocked or expired cards. Agents must verify the customer’s identity and credit card details and follow the system prompts to activate or re-activate the card. Agents must also inform the customer about the activation confirmation message or email that they will receive shortly.
+•	Balance inquiry: Customers may call to check their credit card balance, available credit limit, due date, minimum payment amount, or statement details. Agents must verify the customer’s identity and credit card details and provide the requested information from the system. Agents must also remind the customer about the payment options and charges if applicable.
+•	Payment: Customers may call to make a payment towards their credit card bill using their debit card, net banking, or other modes. Agents must verify the customer’s identity and credit card details and guide them through the payment process using the system. Agents must also confirm the payment amount, date, reference number, and receipt with the customer.
+•	Dispute: Customers may call to dispute a transaction on their credit card statement that they do not recognize or authorize. Agents must verify the customer’s identity and credit card details and ask them to provide details of the disputed transaction, such as date, amount, merchant name, etc. Agents must also ask them if they have contacted the merchant directly to resolve the issue. If not, agents must advise them to do so first before filing a dispute with the bank. If yes, agents must initiate a dispute request using the system and provide the customer with a dispute reference number and expected resolution time. Agents must also inform the customer about the dispute process and their rights and responsibilities.
+•	Request: Customers may call to request for various services or changes related to their credit card, such as card replacement, PIN change, limit increase, reward redemption, etc. Agents must verify the customer’s identity and credit card details and check their eligibility and availability for the requested service or change. Agents must also explain the terms and conditions and fees if applicable and obtain the customer’s consent before processing the request using the system. Agents must also confirm the request details and status with the customer.
+•	Complaint: Customers may call to express their dissatisfaction or frustration with the bank’s products, services, policies, or staff. Agents must listen empathetically and apologize sincerely to customers and acknowledge their feelings and expectations. Agents must also try to resolve the complaint at the first point of contact by providing information, explanation, solution, or compensation as appropriate. Agents must also record the complaint details and outcome using the system and provide the customer with a complaint reference number and follow-up date if required.
+Escalation Procedures
+This section explains how agents should escalate calls to higher authorities or departments when they are unable to resolve the customer’s query or issue or when the customer demands to speak to a supervisor or manager. These include:
+•	Criteria for escalation: Agents should escalate calls only when they have exhausted all possible options and resources to resolve the customer’s query or issue or when they encounter any of the following situations:
+o	The customer is abusive, threatening, or violent towards the agent or the bank.
+o	The customer is dissatisfied with the agent’s service or solution and insists on speaking to a supervisor or manager.
+o	The customer has a complex or sensitive query or issue that requires expert advice or intervention from a supervisor or manager.
+o	The customer has a recurring or chronic query or issue that has not been resolved satisfactorily by previous agents or supervisors.
+•	Process for escalation: Agents should follow these steps to escalate calls effectively and professionally:
+o	Inform the customer politely and respectfully that they need to transfer the call to a supervisor or manager who can assist them better.
+o	Provide a brief summary of the customer’s query or issue and the actions taken so far to the supervisor or manager who will take over the call.
+o	Transfer the call smoothly and promptly without disconnecting or putting the customer on hold for too long.
+o	Update the system with the escalation details and reasons and follow up with the supervisor or manager if needed.
+
+---

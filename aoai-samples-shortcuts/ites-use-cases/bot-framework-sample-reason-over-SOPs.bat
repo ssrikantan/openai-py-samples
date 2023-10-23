@@ -1,0 +1,2 @@
+start microsoft-edge:https://portal.azure.com/#@mtcbang.com/resource/subscriptions/61fbc32c-9633-42bf-bfb5-2a8b3aeed21d/resourceGroups/azoai-bot-rg/providers/Microsoft.BotService/botServices/az-openai-agent/overview
+start microsoft-edge:https://mtccontoso.azurewebsites.net

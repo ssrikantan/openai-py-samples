@@ -1,0 +1,43 @@
+[Candidate CV] 
+John Doe
+Principal Development Manager 
+
+Education 
+• Bachelor of Science in Computer Science, University of Washington 
+• Master of Science in Artificial Intelligence, Stanford University 
+
+Core Qualifications 
+• 6+ years of experience in leading engineering teams and managing software development projects  
+• Strong knowledge of the SDLC process and the latest and best practices in the field 
+• Hands-on experience in programming languages, such as Go, Python, or C# 
+• An eye for quality, testing, and the rigor required in the DevOps life cycle 
+• A great team player who can collaborate effectively with peers and other teams 
+• Excellent communication, presentation, and interpersonal skills 
+
+Other Qualifications 
+• Experience working with or delivering for multinational companies or customers 
+• Experience working in the domains or industries that we serve, such as entertainment, education, gaming, or e-commerce 
+• A passion for innovation, creativity, and learning new things Technical Skills 
+• Proficient in AI frameworks and building custom AI/ML models. Have basic knowledge of Generative AI and Open AI
+• Proficient in programming languages, such as Go, Python, and Java 
+• Proficient in cloud computing, such as Google Cloud 
+• Proficient in DevOps tools and methodologies, such as Git, Jenkins, Docker, Kubernetes, and Ansible 
+• Familiar with data science and machine learning tools and libraries, such as TensorFlow, PyTorch, Scikit-learn, and Pandas 
+• Familiar with web development and front-end technologies, such as HTML, CSS, JavaScript, and React 
+
+Experience 
+• Lead Software Engineer, Microsoft, Seattle, WA (2015-Present) 
+• Managed a team of engineers and oversaw the entire SDLC of Microsoft’s products and solutions 
+• Designed, architected, coded, tested, and deployed generative AI models and applications that met the requirements and specifications of customers and stakeholders 
+• Ensured the quality, performance, scalability, security, and reliability of Microsoft’s products and solutions 
+• Collaborated with other teams, such as product management, design, marketing, and sales, to align the engineering vision and strategy with the business goals and objectives 
+• Mentored, coached, and guided team members and helped them grow and excel in their roles 
+• Provided technical leadership and expertise to the engineering team and the company 
+• Researched and explored new technologies and trends in the field of generative AI and incorporated them into Microsoft’s products and solutions 
+• Reported and communicated the progress, status, and issues of the engineering projects to the senior management and stakeholders 
+
+Joining Period:
+	- I have a notice period of least 6 months to serve before I can take up the employment
+
+Awards & Recognition 
+• Microsoft MVP Award (2017) 

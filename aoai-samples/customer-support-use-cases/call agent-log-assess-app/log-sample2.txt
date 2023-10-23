@@ -1,0 +1,51 @@
+Agent: Hello, this is XYZ Bank. How can I help you?
+Customer: Hi, this is Priya. I’m a Club class cardholder and I have a serious problem with my credit card.
+Agent: OK, what’s the problem?
+Customer: I just checked my credit card statement online and I saw some transactions that I did not make. They are for some online shopping worth Rs. 40,000.
+Agent: Oh, that’s bad. When did you make those transactions?
+Customer: I did not make those transactions. That’s what I’m telling you. Someone has used my card fraudulently.
+Agent: Are you sure? Maybe you forgot or someone in your family used your card.
+Customer: No, I’m sure. I have my card with me right now and I never share it with anyone. And I don’t even shop online.
+Agent: Well, maybe you clicked on some link or gave your card details to some website or email.
+Customer: No, I did not do that either. I’m very careful with my card details and I never use it on untrusted websites or emails.
+Agent: Hmm, OK. Can you please tell me your credit card number and date of birth for verification?
+Customer: Sure, it’s 4321 8765 1234 5678 and my date of birth is 01/01/1980.
+Agent: Thank you. Let me check your account. Please hold on for a minute.
+Customer: OK.
+(After a minute)
+Agent: Hello, are you there?
+Customer: Yes, I’m here.
+Agent: OK, so I checked your account and I can see the transactions that you are talking about. They were made yesterday at 11:15 am and 11:20 am from an e-commerce website.
+Customer: Yes, that’s right. But I did not make those transactions. They are fraudulent.
+Agent: Well, I don’t know about that. Maybe you did make them and you just don’t remember.
+Customer: What? How can you say that? I’m telling you I did not make them. This is a case of credit card fraud and you need to do something about it.
+Agent: Well, what do you want me to do?
+Customer: I want you to reverse those transactions immediately and refund my money.
+Agent: Sorry, but we can’t do that.
+Customer: What do you mean you can’t do that? This is your responsibility to protect my card and my money from fraudsters.
+Agent: Well, we can’t just reverse any transaction without proper investigation and evidence. We have to follow the due process as per Visa guidelines and regulations.
+Customer: What process? How long will it take?
+Agent: Well, first of all, you have to file a dispute request with us by filling out a form and sending it back to us within 10 days.
+Customer: OK, fine. Send me the form then.
+Agent: We can’t send you the form. You have to download it from our website or visit our branch to get it.
+Customer: What? Why can’t you send me the form by email or SMS?
+Agent: Sorry, but we don’t have that facility. You have to get the form yourself.
+Customer: That’s ridiculous. How am I supposed to get the form when I’m busy and stressed out because of this fraud?
+Agent: Well, that’s not our problem. You have to get the form somehow if you want to dispute those transactions.
+Customer: Fine. And then what?
+Agent: And then we will investigate the matter further and contact the merchant who processed those transactions. We will try to get a chargeback from them or file a claim with Visa if they refuse to cooperate.
+Customer: And how long will that take?
+Agent: It may take up to 60 days for us to complete the investigation and process the refund if any.
+Customer: 60 days? Are you kidding me? Why should I wait for so long for something that is not my fault? This is unacceptable. You should have better security systems in place to prevent such frauds from happening in the first place.
+Agent: Well, I’m sorry but this is the standard procedure that we have to follow. We can’t do anything about it.
+Customer: This is outrageous. You are not helping me at all. You are just making things worse for me. You are wasting my time and money. You don’t care about your customers at all.
+Agent: Well, I’m sorry you feel that way. But this is the best we can do for you.
+Customer: No, this is not the best you can do for me. This is the worst you can do for me. You are not listening to me or understanding my situation. You are not providing me any solution or compensation. You are not respecting me or my rights as a customer.
+Agent: Well, I’m sorry but there is nothing more I can do for you. If you are not satisfied with our service, you can file a complaint with our grievance redressal officer or the banking ombudsman.
+Customer: Oh, really? And how do I do that?
+Agent: You can find the details of our grievance redressal officer and the banking ombudsman on our website or in our branch.
+Customer: And how long will it take for them to resolve my complaint?
+Agent: I don’t know. It depends on them.
+Customer: Well, that’s very helpful. Not. You know what? You are the worst customer service agent I have ever spoken to. You have no clue how to handle a credit card fraud case. You have no empathy or professionalism. You have no respect or regard for your customers. Especially your Club class cardholders who pay a premium fee for your services. You should be ashamed of yourself and your bank.
+Agent: Well, I’m sorry you feel that way. But I’m just doing my job and following the rules.
+Customer: Well, you’re doing a terrible job and following the wrong rules. You need to learn how to do your job properly and treat your customers fairly and respectfully. Or else you will lose your customers and your reputation.

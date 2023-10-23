@@ -1,0 +1,6 @@
+List the tables in the database
+can you get me the record count in the org_ext_table table,please?
+What is the total sum of the number of employees from Singapore in the org table?
+what is the name of the smallest organization in the entire org_ext_table? 
+what is the product that had the highest total revenue in vanarsdel?
+which is the zip that has the highest total revenue in vanarsdel?

@@ -1,0 +1,13 @@
+The Logic App is triggered when a medical insurance claim form is uploaded to a storage account:
+
+(Note, this is deployed to the fdpo tenant in azure)
+Azure Cognitive Services OCR is performed on the PDF Document
+Open AI is used to extract policy number, amount claimed, etc from the OCR response
+Integrates with Azure SQL Database, to get policy details and limits on the policy
+
+Showcases a use case where open AI is used in the background.
+
+
+
+Logic App URL:
+https://portal.azure.com/#@fdpo.onmicrosoft.com/resource/subscriptions/bc2e2415-164d-45a5-9a4a-29d9264a343e/resourceGroups/oai-doc-processor-rg/providers/Microsoft.Logic/workflows/docsprocessor/logicApp

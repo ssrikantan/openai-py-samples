@@ -1,0 +1,318 @@
+---
+openapi: 3.0.1
+servers:
+  - url: https://mtcecomsite.azurewebsites.net/
+info:
+  title: webcomapi
+  version: '1.0'
+paths:
+  "/Category":
+    get:
+      tags:
+      - Category
+      operationId: GetCategories
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Category"
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Category"
+            text/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Category"
+  "/Category/{id}":
+    get:
+      tags:
+      - Category
+      operationId: GetCategory
+      parameters:
+      - name: id
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                "$ref": "#/components/schemas/Category"
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Category"
+            text/json:
+              schema:
+                "$ref": "#/components/schemas/Category"
+  "/Category/search/{name}":
+    get:
+      tags:
+      - Category
+      operationId: SearchCategory
+      parameters:
+      - name: name
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                "$ref": "#/components/schemas/Category"
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Category"
+            text/json:
+              schema:
+                "$ref": "#/components/schemas/Category"
+  "/Product":
+    get:
+      tags:
+      - Product
+      operationId: GetProducts
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            text/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+  "/Product/{id}":
+    get:
+      tags:
+      - Product
+      operationId: GetProduct
+      parameters:
+      - name: id
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                "$ref": "#/components/schemas/Product"
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Product"
+            text/json:
+              schema:
+                "$ref": "#/components/schemas/Product"
+  "/Product/GetProductsByCategory/{id}":
+    get:
+      tags:
+      - Product
+      operationId: GetProductsByCategory
+      parameters:
+      - name: id
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            text/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+  "/Product/search/{name}":
+    get:
+      tags:
+      - Product
+      operationId: SearchProducts
+      parameters:
+      - name: name
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            text/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+  "/Product/searchbycategoryandprice/{id}/{price}":
+    get:
+      tags:
+      - Product
+      operationId: GetProductsByCategoryAndPrice
+      parameters:
+      - name: id
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: integer
+          format: int32
+      - name: price
+        in: path
+        required: true
+        style: simple
+        schema:
+          type: number
+          format: double
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+            text/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Product"
+  "/WeatherForecast":
+    get:
+      tags:
+      - WeatherForecast
+      operationId: GetWeatherForecast
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/WeatherForecast"
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/WeatherForecast"
+            text/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/WeatherForecast"
+components:
+  schemas:
+    Category:
+      type: object
+      properties:
+        categoryName:
+          type: string
+          nullable: true
+        categoryId:
+          type: integer
+          format: int32
+        description:
+          type: string
+          nullable: true
+      additionalProperties: false
+    Product:
+      type: object
+      properties:
+        productName:
+          type: string
+          nullable: true
+        id:
+          type: integer
+          format: int32
+        productDescription:
+          type: string
+          nullable: true
+        categoryId:
+          type: integer
+          format: int32
+        price:
+          type: number
+          format: double
+        imageUrl:
+          type: string
+          nullable: true
+        colors:
+          type: array
+          items:
+            type: string
+          nullable: true
+      additionalProperties: false
+    WeatherForecast:
+      type: object
+      properties:
+        date:
+          type: string
+          format: date
+        temperatureC:
+          type: integer
+          format: int32
+        temperatureF:
+          type: integer
+          format: int32
+          readOnly: true
+        summary:
+          type: string
+          nullable: true
+      additionalProperties: false

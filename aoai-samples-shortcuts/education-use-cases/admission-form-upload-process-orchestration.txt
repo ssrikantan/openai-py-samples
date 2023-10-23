@@ -1,0 +1,6 @@
+The Logic App is triggered when the admission form is uploaded to the Storage location
+(Note, this is deployed to the fdpo tenant in azure)
+Forms recognizer(Document Intelligence) is used to extract data from PDF in structured format
+Open AI is used to extract specific name/value pairs from the Forms recognizer output
+Email approval is sent to the admin of the college, after taking the structured data from Open AI response
+Showcases human in the loop, and a use case where open AI is used in the background.

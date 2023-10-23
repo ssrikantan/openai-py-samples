@@ -1,0 +1,15 @@
+The Logic App is triggered when an email is received asking for:
+- consignment status
+- reroute consignment
+(Note, this is deployed to the mtc tenant in azure)
+Open AI is used to extract intent and entities from the email content
+- uses function calling in Open AI
+- extracts intent and entities from the email message
+
+Integrates with Azure SQL Database, to get consignment status or to update the database whwen rerouting consignment
+Showcases a use case where open AI is used in the background.
+
+
+
+Logic App URL:
+https://portal.azure.com/#@mtcbang.com/resource/subscriptions/61fbc32c-9633-42bf-bfb5-2a8b3aeed21d/resourceGroups/azoai-bot-rg/providers/Microsoft.Logic/workflows/consignment-aoai-agent/logicApp

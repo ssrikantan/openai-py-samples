@@ -1,0 +1,19 @@
+# Medical Bill 
+---
+Medical Bill
+Patient Name: John Doe
+Date of Service: 05/10/2023
+Description of Service: Prescription drugs for post discharge medication
+---------------------------------------------------------------
+| Drug Name | Dosage | Quantity | Price per Unit | Total Price |
+| --------- | ------ | -------- | -------------- | ----------- |
+| Aspirin   | 81 mg  | 30 tablets | $0.05         | $1.50      |
+| Clopidogrel | 75 mg | 30 tablets | $0.75         | $22.50      |
+| Metoprolol  | 50 mg | 30 tablets | $0.25         | $7.50      |
+| Atorvastatin | 20 mg | 30 tablets | $0.50        | $15.00      |
+| Lisinopril   | 10 mg | 30 tablets | $0.20        | $6.00      |
+----------------------------------------------------------------
+Subtotal: $52.50
+Tax: $3.15
+Total: $55.65
+---

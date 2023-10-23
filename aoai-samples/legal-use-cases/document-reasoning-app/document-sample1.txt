@@ -1,0 +1,55 @@
+
+---
+# Non-Disclosure Agreement
+
+This Non-Disclosure Agreement (the "Agreement") is made and entered into as of the date of the last signature below (the "Effective Date") by and between:
+
+- ABC Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 (the "Disclosing Party"); and
+- XYZ Ltd., a British company with its registered office at 456 High Street, London, SW1A 1AA (the "Receiving Party").
+
+(collectively, the "Parties" or individually, a "Party").
+
+WHEREAS, the Disclosing Party possesses certain confidential and proprietary information relating to its business, products, services, customers, suppliers, partners, and other matters (the "Confidential Information"); and
+
+WHEREAS, the Receiving Party is interested in receiving the Confidential Information for the purpose of evaluating a potential business relationship with the Disclosing Party (the "Purpose");
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants herein, the Parties agree as follows:
+
+1. Definition of Confidential Information. For the purposes of this Agreement, "Confidential Information" means any and all information disclosed by the Disclosing Party to the Receiving Party, either directly or indirectly, in writing, orally, or by inspection of tangible objects, that is designated as confidential or proprietary or that reasonably should be understood to be confidential or proprietary given the nature of the information and the circumstances of disclosure. Confidential Information includes, but is not limited to: (a) trade secrets, inventions, ideas, processes, formulas, methods, techniques, algorithms, models, designs, drawings, specifications, data, software, code, documentation, hardware, prototypes; (b) business plans, strategies, objectives, forecasts, projections; (c) financial information; (d) marketing information; (e) customer information; (f) supplier information; (g) partner information; and (h) any other information that is not generally known to the public or that derives independent economic value from not being generally known. Confidential Information does not include any information that: (i) was publicly known and made generally available in the public domain prior to the time of disclosure by the Disclosing Party; (ii) becomes publicly known and made generally available after disclosure by the Disclosing Party to the Receiving Party through no action or inaction of the Receiving Party; (iii) is already in the possession of the Receiving Party at the time of disclosure by the Disclosing Party as shown by the Receiving Party's files and records immediately prior to the time of disclosure; (iv) is obtained by the Receiving Party from a third party without a breach of such third party's obligations of confidentiality; or (v) is independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information.
+
+2. Non-use and Non-disclosure. The Receiving Party agrees that it will not use the Confidential Information for any purpose other than the Purpose. The Receiving Party further agrees that it will not disclose or disseminate any Confidential Information to any person or entity other than its employees,
+contractors, consultants, agents, or representatives (collectively, "Representatives") who have a need to know the Confidential Information for the Purpose and who are bound by confidentiality obligations at least as restrictive as those contained herein. The Receiving Party will not make any copies of the Confidential Information except as necessary for the Purpose. The Receiving Party will protect the confidentiality of the Confidential Information with the same degree of care that it uses to protect its own confidential and proprietary information of similar nature, but in no event with less than a reasonable degree of care. The Receiving Party will promptly notify the Disclosing Party of any unauthorized use or disclosure of the Confidential Information and will cooperate with the Disclosing Party to remedy such unauthorized use or disclosure.
+
+3. Return of Confidential Information. Upon the termination of this Agreement or upon the written request of the Disclosing Party, the Receiving Party will return to the Disclosing Party all Confidential Information and all copies, notes, summaries, analyses, or other documents or materials containing or reflecting any Confidential Information, or certify in writing that such Confidential Information has been destroyed.
+
+4. No Rights Granted. Nothing in this Agreement will be construed as granting any rights to the Receiving Party under any patent, trademark, copyright, or other intellectual property right of the Disclosing Party, nor will this Agreement grant the Receiving Party any right to use the Confidential Information except for the Purpose.
+
+5. No Warranty. The Disclosing Party makes no representation or warranty as to the accuracy or completeness of the Confidential Information. The Disclosing Party will not be liable for any damages arising from the use of or reliance on the Confidential Information by the Receiving Party.
+
+6. Term. This Agreement will commence on the Effective Date and will remain in force until terminated by either Party upon thirty (30) days prior written notice to the other Party. The obligations of confidentiality and non-use under this Agreement will survive the termination of this Agreement for a period of five (5) years from the date of disclosure of the Confidential Information.
+
+7. Remedies. The Receiving Party acknowledges that any breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages may not be adequate. Therefore, in addition to any other remedies available at law or in equity, the Disclosing Party will be entitled to seek injunctive relief to prevent or restrain any breach or threatened breach of this Agreement by the Receiving Party or its Representatives.
+
+8. Governing Law. This Agreement will be governed by and construed in accordance with the laws of Delaware, without regard to its conflict of laws principles. Any dispute arising out of or relating to this Agreement will be submitted to the exclusive jurisdiction and venue of the state and federal courts located in New York County, New York.
+
+9. Entire Agreement. This Agreement constitutes the entire understanding and agreement of the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the Parties. This Agreement may not be modified or amended except by a written instrument signed by both Parties.
+
+10. Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision will be severed from this Agreement and the remaining provisions will remain in full force and effect.
+
+11. Waiver. No failure or delay by either Party in exercising any right, power, or remedy under this Agreement will operate as a waiver of such right, power, or remedy, nor will any single or partial exercise of any such right, power, or remedy preclude any other or further exercise thereof or the exercise of any other right, power, or remedy.
+
+12. Counterparts. This Agreement may be executed in one or more counterparts, each of which will be deemed an original and all of which together will constitute one and the same instrument. Facsimile or electronic signatures will have the same force and effect as original signatures.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+ABC Inc. XYZ Ltd.
+
+By: ______________________ By: ______________________
+
+Name: ______________________ Name: ______________________
+
+Title: ______________________ Title: ______________________
+
+Date: ______________________ Date: ______________________
+
+---

@@ -1,0 +1,39 @@
+[Discharge Summary]
+---
+Sure, I can format the documents and combine them into one. Here is the result:
+
+# Discharge Summary
+
+**Patient Name:** John Doe
+
+**Date of Admission:** 05/01/2023
+
+**Date of Discharge:** 05/10/2023
+
+**Diagnosis:** Acute myocardial infarction (AMI) with cardiogenic shock and pulmonary edema
+
+**Procedures:**
+
+- Coronary angiography
+- Percutaneous coronary intervention (PCI) with stent placement in left anterior descending (LAD) artery
+- Intra-aortic balloon pump (IABP) insertion and removal
+- Mechanical ventilation
+- Diuretics and vasopressors
+
+**Summary:**
+
+The patient is a 55-year-old male who presented to the emergency department with chest pain, dyspnea, diaphoresis and hypotension. He was diagnosed with AMI and transferred to the cardiac catheterization lab for urgent revascularization. He underwent PCI with stent placement in the LAD artery, which was 90% occluded. He developed cardiogenic shock and pulmonary edema and required IABP insertion and mechanical ventilation. He was admitted to the intensive care unit (ICU) and received diuretics and vasopressors to improve his hemodynamics and oxygenation. He gradually improved and was weaned off the IABP and the ventilator. He was transferred to the cardiac step-down unit on day 5 and started on dual antiplatelet therapy, beta-blockers, statins and angiotensin-converting enzyme inhibitors. He underwent cardiac rehabilitation and education on lifestyle modification. He was discharged on day 10 in stable condition with no complications.
+
+**Recommendations:**
+
+The patient should follow up with his cardiologist in one week for evaluation of his cardiac function and medication adjustment. He should continue his cardiac rehabilitation program for at least 12 weeks. He should adhere to his medication regimen and avoid smoking, alcohol, caffeine and high-fat foods. He should monitor his blood pressure, heart rate, weight and symptoms and report any changes or concerns to his doctor. He should seek immediate medical attention if he experiences chest pain, shortness of breath, palpitations or fainting.
+
+The recommended medication to be followed post discharge is:
+
+- Dual antiplatelet therapy (aspirin and clopidogrel) to prevent stent thrombosis and further ischemic events
+- Beta-blockers (metoprolol) to reduce heart rate, blood pressure and oxygen demand
+- Statins (atorvastatin) to lower cholesterol and prevent plaque formation
+- Angiotensin-converting enzyme inhibitors (lisinopril) to reduce blood pressure and prevent ventricular remodeling
+
+This regimen has to be followed for a period of 3 months
+---

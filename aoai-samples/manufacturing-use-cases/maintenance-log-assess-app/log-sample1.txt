@@ -1,0 +1,19 @@
+Maintenance log from register:
+
+Date: 04/05/2023
+Time: 10:00 AM
+Shift: Morning
+Complaint:
+Overhead crane not working properly.
+Steps taken:
+1. Checked the hoist upper travel limit switch.
+2. Checked wire rope for kinks, frays or any signs of damage.
+3. Checked inspection and maintenance records to ensure that everything is up-to-date for the crane that will be used.
+4. Performed routine inspection and maintenance in accordance with manufacturer’s instructions.
+
+Result:
+Overhead crane is now working properly.
+
+Maintenance Team:
+
+John Doe

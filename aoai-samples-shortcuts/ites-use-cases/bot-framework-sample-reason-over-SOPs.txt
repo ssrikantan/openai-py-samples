@@ -1,0 +1,12 @@
+This Bot Application can be used to demonstrate how to reason with documents
+url - https://portal.azure.com/#@mtcbang.com/resource/subscriptions/61fbc32c-9633-42bf-bfb5-2a8b3aeed21d/resourceGroups/azoai-bot-rg/providers/Microsoft.BotService/botServices/az-openai-agent/overview
+
+The Web App that is powering the Bot Application is:
+https://mtccontoso.azurewebsites.net
+
+Before running this sample, need to ensure the web app config settings point to the right Congnitive search index
+
+
+This also showcases the following important features:
+- access it from Microsoft Teams
+- access it from Outlook email, send email to aliya sharpe
