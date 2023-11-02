@@ -1,0 +1,4 @@
+You can run this program with these sample questions
+
+1) What is the time now in Bengaluru?
+2) How much did S&P 500 change between July 12 and July 13? Use the calculator.

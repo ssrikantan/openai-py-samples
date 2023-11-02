@@ -17,4 +17,92 @@ Extract the following from the phone conversation. Do not include brackets in th
 
 
 
+Call transcript sample 1:
+Agent: Good afternoon, this is John from XYZ Insurance. How may I assist you today?
+
+Customer: Hi John, this is Robert. I've been in a car accident.
+
+Agent: Oh no, I'm sorry to hear that Robert. I hope you're okay. Can you tell me more about what happened?
+
+Customer: Yes, I was driving home from work and another car ran a red light and hit my car on the passenger side. 
+
+Agent: That sounds terrible, Robert. I'm glad you're safe enough to make this call. Now, let's get some details for the claim. Can you provide me with the date and time of the accident?
+
+Customer: It happened today around 5 PM.
+
+Agent: Thank you for that information. Were there any witnesses to the accident?
+
+Customer: Yes, a pedestrian saw the whole thing and he gave me his contact information.
+
+Agent: That's helpful, Robert. We may reach out to him for further details if needed. Now, did you contact the police and have a report made?
+
+Customer: Yes, the police came to the scene and made a report.
+
+Agent: Great! We'll need a copy of that police report for our records. You can email it to us or drop it off at any of our offices. Now, let's talk about your vehicle. Can you describe the damage?
+
+Customer: The passenger side door is completely smashed in and the window is shattered. The front right tire is also flat.
+
+Agent: I see, that sounds like significant damage. Have you taken your car to a repair shop yet?
+
+Customer: No, not yet. It got towed away from the accident scene.
+
+Agent: Alright, we can help you find an approved repair shop in your area and arrange for your vehicle to be inspected there. We'll also arrange for a rental car for you while your car is being repaired.
+
+Customer: That would be great, thank you.
+
+Agent: You're welcome, Robert. We're here to help you through this process. I'll send you an email with all the details we discussed and the next steps in the claims process.
+
+Customer: Thank you, John.
+
+Agent: You're welcome, Robert. Take care and feel free to call us if you have any more questions.
+
+
+
+
+
+
+Another transcript where the call does not go very well
+
+Agent: Good afternoon, this is John from XYZ Insurance. How may I assist you today?
+
+Customer: Hi John, this is Robert. I've been in a car accident.
+
+Agent: Oh no, I'm sorry to hear that Robert. I hope you're okay. Can you tell me more about what happened?
+
+Customer: Yes, I was driving home from work and another car ran a red light and hit my car on the passenger side.
+
+Agent: That sounds terrible, Robert. I'm glad you're safe enough to make this call. Now, let's get some details for the claim. Can you provide me with the date and time of the accident?
+
+Customer: It happened today around 5 PM.
+
+Agent: Thank you for that information. Were there any witnesses to the accident?
+
+Customer: No, there were no witnesses.
+
+Agent: Alright. Did you contact the police and have a report made?
+
+Customer: No, I didn't think it was necessary.
+
+Agent: I see. It's generally recommended to have a police report made for insurance purposes as it can help establish the facts of the accident. Now, let's talk about your vehicle. Can you describe the damage?
+
+Customer: The passenger side door is completely smashed in and the window is shattered. The front right tire is also flat.
+
+Agent: I see, that sounds like significant damage. Have you taken your car to a repair shop yet?
+
+Customer: No, not yet. It got towed away from the accident scene.
+
+Agent: Alright, we can help you find an approved repair shop in your area and arrange for your vehicle to be inspected there. We'll also arrange for a rental car for you while your car is being repaired.
+
+Customer: But I don't want a rental car. I want my car fixed now!
+
+Agent: I understand your frustration, Robert. However, repairs can take some time depending on the extent of the damage. The rental car is to ensure you're not without transportation during this time.
+
+Customer: This is ridiculous! I pay for insurance and when I need it, it's nothing but hassle!
+
+Agent: I'm sorry to hear that you're upset, Robert. We're here to help and we'll do our best to make this process as smooth as possible for you.
+
+
+
+
+
 

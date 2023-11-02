@@ -13,6 +13,8 @@ Description of Service: Prescription drugs for post discharge medication
 | Metoprolol  | 50 mg | 30 tablets | $0.75         | $22.50      |
 | Atorvastatin | 20 mg | 30 tablets | $1.00        | $30.00      |
 | Lisinopril   | 10 mg | 30 tablets | $0.40        | $12.00      |
+|ACE inhibitor | 5 mg  | 30 tablets | $0.50        | $15.00      |
+|SGLT2 inhibitor| 10 mg | 30 tablets | $0.83       | &25         |
 ------------------------------------------------------------------
 Subtotal: $124.50
 

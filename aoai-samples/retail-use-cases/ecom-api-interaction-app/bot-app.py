@@ -44,6 +44,7 @@ def init_config():
         agent_chain = initialize_agent(
             tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
         )
+        # agent_chain.run(question="hello", verbose=True,context)
         st.session_state["api_agent"] = agent_chain
     return st.session_state["api_agent"]
 
