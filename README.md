@@ -1,4 +1,7 @@
 # openai-py-samples
+
+**THESE SAMPLES WILL WORK ONLY WITH openai library version less than 1.0. Use pip install openai==0.28**
+
 This repository has demo samples that showcase capabilities of azure open ai, as applied to scenarios across industry verticals. Most of the examples can be run as a streamlit app.
 
 ## Content Description
