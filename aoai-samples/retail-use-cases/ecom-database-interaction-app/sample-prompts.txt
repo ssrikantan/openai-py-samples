@@ -1,3 +1,5 @@
+FOR THIS SAMPLE TO RUN, ON WINDOWS DEV MACHINE, INSTALL THE ODBC DRIVER FOR SQL ON WINDOWS - https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16
+
 List the tables in the database
 can you get me the record count in the org_ext_table table,please?
 What is the total sum of the number of employees from Singapore in the org table?

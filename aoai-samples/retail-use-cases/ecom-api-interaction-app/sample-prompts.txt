@@ -1,0 +1,4 @@
+sample prompts that can be used:
+
+- show me winter wear under $500
+- show me formal wear under $500. Respond in bullet point format with the product id, price and image information
